@@ -1,0 +1,12 @@
+.upload__form{
+    width: 50%;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.image__gallery img{
+
+    height: 10rem;
+}
